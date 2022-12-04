@@ -3,15 +3,6 @@ date: 2022-11-28
 title: Performance metrics
 ---
 
-[comment]: <> (---)
-[comment]: <> (date: 2020-08-12)
-[comment]: <> (title: The history of marketing)
-[comment]: <> (categories:)
-[comment]: <> (  - marketing)
-[comment]: <> (author_staff_member: robin)
-[comment]: <> (---})
-
-
 Performance metrics are the concrete measurables used to quantify your performance in a given area. 
 
 ## Performance metrics for different circumstances
@@ -29,3 +20,13 @@ Training is one of those activities that becomes easy to cheat at unless you are
 The diet category has a tendency to become a large burden in terms of tracking. A popular strategy amongst bodybuilders and other athletes is to count calories as well as nutritional value of their meals. Consistency is another important aspect of dieting - and it might therefore be worthwhile to track the times at which you are eating. Some example KPIs are: 
 * Average number of calories per day
 * Deviation from scheduled eating times.
+
+
+
+[comment]: <> (---)
+[comment]: <> (date: 2020-08-12)
+[comment]: <> (title: The history of marketing)
+[comment]: <> (categories:)
+[comment]: <> (  - marketing)
+[comment]: <> (author_staff_member: robin)
+[comment]: <> (---})
