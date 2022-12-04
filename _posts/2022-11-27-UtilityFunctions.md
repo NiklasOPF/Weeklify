@@ -3,15 +3,6 @@ date: 2022-11-27
 title: Utility Functions
 ---
 
-[comment]: <> (---)
-[comment]: <> (date: 2020-08-12)
-[comment]: <> (title: The history of marketing)
-[comment]: <> (categories:)
-[comment]: <> (  - marketing)
-[comment]: <> (author_staff_member: robin)
-[comment]: <> (---})
-
-
 Utility functions offer a way to quantify how much value you get form a certain ammount of a given activity. 
 
 ## Generic linear utility function
@@ -37,3 +28,14 @@ It is less flexible in its shape, but provides a very smooth utility increase co
 ![image](https://user-images.githubusercontent.com/44125052/204153601-8919ef50-30a3-4d2c-af12-d8481e84233d.png)
 
 This utility funciton is appropriate for most activities that follow a [diminishing return](https://en.wikipedia.org/wiki/Diminishing_returns) structure.
+
+
+
+
+[comment]: <> (---)
+[comment]: <> (date: 2020-08-12)
+[comment]: <> (title: The history of marketing)
+[comment]: <> (categories:)
+[comment]: <> (  - marketing)
+[comment]: <> (author_staff_member: robin)
+[comment]: <> (---})
